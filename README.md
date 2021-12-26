@@ -11,8 +11,6 @@ Authors
 
 Seth Luitjohan, MA
 
-Mehdi Ashayeri, PHD
-Urban Intelligence and Integrity Lab (URBiiLAB) at Southern illinois University at Carbondale
+Mehdi Ashayeri, PHD (Corresponding Author), Founding Director, Urban Intelligence and Integrity Lab (URBiiLAB) at Southern illinois University at Carbondale
 
-Narjes Abbasabadi, PHD
-Sustianable Intelligence Lab (SILab) a2 University of Texas at Arlington
+Narjes Abbasabadi, PHD, Founding Director, Sustianable Intelligence Lab (SILab) a2 University of Texas at Arlington
