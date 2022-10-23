@@ -10,7 +10,7 @@ The SDCA tool can be used by architects when designing for maximum solar radiati
 
 Authors:
 
-Seth Luitjohan, MA
+Seth Luitjohan
 
 Mehdi Ashayeri, PHD (Corresponding Author), Founding Director, Urban Intelligence and Integrity Lab (URBiiLAB) at Southern illinois University–Carbondale
 
